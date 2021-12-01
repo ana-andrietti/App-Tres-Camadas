@@ -1,0 +1,5 @@
+C:\Projetos\TresCamadas2\UI\obj\x86\Debug\CamadaPersistente.csproj.AssemblyReference.cache
+C:\Projetos\TresCamadas2\UI\obj\x86\Debug\TresCamadas2.Form1.resources
+C:\Projetos\TresCamadas2\UI\obj\x86\Debug\CamadaPersistente.Properties.Resources.resources
+C:\Projetos\TresCamadas2\UI\obj\x86\Debug\CamadaPersistente.csproj.GenerateResource.cache
+C:\Projetos\TresCamadas2\UI\obj\x86\Debug\CamadaPersistente.csproj.CoreCompileInputs.cache

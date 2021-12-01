@@ -1,0 +1,15 @@
+C:\Projetos\TresCamadas2\UI\bin\Debug\TresCamadas2.exe.config
+C:\Projetos\TresCamadas2\UI\bin\Debug\TresCamadas2.exe
+C:\Projetos\TresCamadas2\UI\bin\Debug\TresCamadas2.pdb
+C:\Projetos\TresCamadas2\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Projetos\TresCamadas2\UI\obj\Debug\TresCamadas2.Form1.resources
+C:\Projetos\TresCamadas2\UI\obj\Debug\TresCamadas2.Properties.Resources.resources
+C:\Projetos\TresCamadas2\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Projetos\TresCamadas2\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Projetos\TresCamadas2\UI\obj\Debug\TresCamadas2.exe
+C:\Projetos\TresCamadas2\UI\obj\Debug\TresCamadas2.pdb
+C:\Projetos\TresCamadas2\UI\bin\Debug\Business2.dll
+C:\Projetos\TresCamadas2\UI\bin\Debug\Business2.pdb
+C:\Projetos\TresCamadas2\UI\bin\Debug\DatabaseSQL.dll
+C:\Projetos\TresCamadas2\UI\bin\Debug\DatabaseSQL.pdb
+C:\Projetos\TresCamadas2\UI\obj\Debug\UI.csproj.CopyComplete

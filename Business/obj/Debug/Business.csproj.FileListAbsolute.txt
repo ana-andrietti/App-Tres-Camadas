@@ -1,0 +1,9 @@
+C:\Projetos\TresCamadas2\Business\bin\Debug\Business2.dll
+C:\Projetos\TresCamadas2\Business\bin\Debug\Business2.pdb
+C:\Projetos\TresCamadas2\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Projetos\TresCamadas2\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Projetos\TresCamadas2\Business\obj\Debug\Business2.dll
+C:\Projetos\TresCamadas2\Business\obj\Debug\Business2.pdb
+C:\Projetos\TresCamadas2\Business\bin\Debug\DatabaseSQL.dll
+C:\Projetos\TresCamadas2\Business\bin\Debug\DatabaseSQL.pdb
+C:\Projetos\TresCamadas2\Business\obj\Debug\Business.csproj.CopyComplete

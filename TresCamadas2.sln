@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{0A15B49B-17DF-4520-8234-E3E023226A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{485A75FD-9C81-4CC9-BDF4-357FC581B373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseSQL", "DatabaseSQL\DatabaseSQL.csproj", "{2646D8D4-F4BB-4C36-8423-DE0F4938E8A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A15B49B-17DF-4520-8234-E3E023226A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A15B49B-17DF-4520-8234-E3E023226A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A15B49B-17DF-4520-8234-E3E023226A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A15B49B-17DF-4520-8234-E3E023226A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485A75FD-9C81-4CC9-BDF4-357FC581B373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485A75FD-9C81-4CC9-BDF4-357FC581B373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485A75FD-9C81-4CC9-BDF4-357FC581B373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485A75FD-9C81-4CC9-BDF4-357FC581B373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2646D8D4-F4BB-4C36-8423-DE0F4938E8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2646D8D4-F4BB-4C36-8423-DE0F4938E8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2646D8D4-F4BB-4C36-8423-DE0F4938E8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2646D8D4-F4BB-4C36-8423-DE0F4938E8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5F6D74D-9206-4C7C-9F04-DC85EB876E86}
+	EndGlobalSection
+EndGlobal

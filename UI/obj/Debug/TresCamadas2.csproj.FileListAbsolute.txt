@@ -1,0 +1,9 @@
+C:\Projetos\TresCamadas2\TresCamadas2\bin\Debug\TresCamadas2.exe.config
+C:\Projetos\TresCamadas2\TresCamadas2\bin\Debug\TresCamadas2.exe
+C:\Projetos\TresCamadas2\TresCamadas2\bin\Debug\TresCamadas2.pdb
+C:\Projetos\TresCamadas2\TresCamadas2\obj\Debug\TresCamadas2.csproj.AssemblyReference.cache
+C:\Projetos\TresCamadas2\TresCamadas2\obj\Debug\TresCamadas2.Properties.Resources.resources
+C:\Projetos\TresCamadas2\TresCamadas2\obj\Debug\TresCamadas2.csproj.GenerateResource.cache
+C:\Projetos\TresCamadas2\TresCamadas2\obj\Debug\TresCamadas2.csproj.CoreCompileInputs.cache
+C:\Projetos\TresCamadas2\TresCamadas2\obj\Debug\TresCamadas2.exe
+C:\Projetos\TresCamadas2\TresCamadas2\obj\Debug\TresCamadas2.pdb
